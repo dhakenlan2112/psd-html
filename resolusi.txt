@@ -1,0 +1,4 @@
+#MAHIR PSD to HTML
+
+ - Ambil desain PSD website dari beberapa website-website ternama buat HTML nya
+ - Buat satu desain to HTML dalam seminggu
